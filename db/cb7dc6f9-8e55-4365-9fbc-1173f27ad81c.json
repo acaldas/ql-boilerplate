@@ -1,0 +1,40 @@
+{
+    "name": "May",
+    "documentType": "powerhouse/budget-statement",
+    "revision": 0,
+    "created": "2023-05-10T16:11:56.376Z",
+    "lastModified": "2023-05-10T16:11:56.376Z",
+    "data": {
+        "owner": { "ref": null, "id": null, "title": null },
+        "month": "05/2023",
+        "status": "Draft",
+        "quoteCurrency": null,
+        "vesting": [],
+        "ftes": null,
+        "accounts": [],
+        "auditReports": [],
+        "comments": []
+    },
+    "operations": [],
+    "fileRegistry": {},
+    "initialState": {
+        "name": "May",
+        "documentType": "powerhouse/budget-statement",
+        "revision": 0,
+        "created": "2023-05-10T16:11:56.376Z",
+        "lastModified": "2023-05-10T16:11:56.376Z",
+        "data": {
+            "owner": { "ref": null, "id": null, "title": null },
+            "month": "05/2023",
+            "status": "Draft",
+            "quoteCurrency": null,
+            "vesting": [],
+            "ftes": null,
+            "accounts": [],
+            "auditReports": [],
+            "comments": []
+        },
+        "operations": [],
+        "fileRegistry": {}
+    }
+}
